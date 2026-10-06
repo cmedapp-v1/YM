@@ -1,0 +1,6 @@
+{
+  "name": "Centre 2ème Chance Yaakoub El Mansour - Gestion des Absences",
+  "description": "Application web administrative pour la gestion des absences, retards, infractions, convocations et bénéficiaires du Centre de Deuxième Chance - Nouvelle Génération Yaakoub El Mansour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
